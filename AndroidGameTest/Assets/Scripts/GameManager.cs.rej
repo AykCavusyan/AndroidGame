@@ -1,0 +1,9 @@
+diff a/AndroidGameTest/Assets/Scripts/GameManager.cs b/AndroidGameTest/Assets/Scripts/GameManager.cs	(rejected hunks)
+@@ -0,6 +0,7 @@
+     public GameObject balls;
+     public GameObject streakText1;
+     public GameObject streakText2;
++    public float maxX, maxY;
+     int killstreak;
+    
+ 

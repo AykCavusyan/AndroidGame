@@ -12,10 +12,10 @@ public class GameManager : MonoBehaviour
     public GameObject balls;
     public GameObject streakText1;
     public GameObject streakText2;
-    public float maxX, maxY;
     int killstreak;
-   
 
+    public float maxX;
+    public float maxY;
 
 
 
